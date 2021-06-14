@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Brandon-Black;
+    src: url(../Brandon-Grotesque-Font-Family/brandon-grotesque-black-58a8a3e824392.otf);
+}
+.page-wrapper {
+    /* overflow: unset !important; */
+    background-color: #79CBC5 !important;
+}
+
+
+.logo{
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+}
+
+.logo_outter {
+    position: relative;
+    width: 100%;
+    height: 100%;
+   
+}
+.logo_inner {
+       position: relative;
+       width: 40%;
+       height: 40%;
+       top: -58%;
+       left: 28%;
+}
+
+.navbar{
+    border-bottom: none !important;
+    background-color: #79CBC5 !important;
+}
+.navbar .container{
+ 
+    background-color: #79CBC5 !important;
+}
+
+.nav_links_con{
+    margin-right: 6rem;
+    margin-top: 4rem;
+    font-family: Brandon-Black;
+    
+}
+.nav_links_con a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.page_bg{
+  position: relative;
+    height:  100vh;
+    width: 100vw;
+}
+.bg_img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
