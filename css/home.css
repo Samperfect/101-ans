@@ -49,14 +49,11 @@
     
 }
 
-.page_bg{
-  position: relative;
-    height:  100vh;
-    width: 100vw;
-}
-.bg_img{
+.bg_con{
+    height: calc(100vh + 200vh);
+    width: auto;
     position: relative;
-    width: 100%;
-    height: 100%;
-
+    background-size: contain;
+    background-position: 50% 50%;
+    background-image: url('../img/Group\ 26864\ \(2\).png');
 }
